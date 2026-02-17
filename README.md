@@ -11,23 +11,26 @@
 ---
 
 ### 💻 About Me
-I am a developer who loves to bridge the gap between software and hardware. My interests range from high-level web applications to low-level microcontroller logic and security research.
+I'm a developer exploring the intersection of hardware, software, and security.
 
-- 🔧 **Embedded Systems:** Building projects with Arduino, ESP32, and STM32.
-- 🛡️ **Cybersecurity:** Focused on penetration testing, network security, and CTFs.
-- 🌐 **Web Development:** Creating clean and functional interfaces.
+* 🔧 **Embedded:** Arduino, ESP32, STM32.
+* 🛡️ **Security:** Pentesting & CTFs.
+* 🌐 **Web:** Clean & functional interfaces.
 
+#### 🖥️ OSs
+<p align="left">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+</p>
 
-  <div>
-    <picture>
-      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enexis1337/enexis1337/output/github-snake-dark.svg">
-      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enexis1337/enexis1337/output/github-snake.svg">
-      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/enexis1337/enexis1337/output/github-snake.svg" alt="GitHub Snake">
-    </picture>
-  </div>
-
-
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enexis1337/enexis1337/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enexis1337/enexis1337/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/enexis1337/enexis1337/output/github-snake.svg" alt="GitHub Snake">
+  </picture>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enexis&label=Profile%20Views&color=00599c&style=flat" alt="enexis" />
+  <img src="https://komarev.com/ghpvc/?username=enexis1337&label=Profile%20Views&color=00599c&style=flat" alt="enexis1337" />
 </p>
