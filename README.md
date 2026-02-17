@@ -17,16 +17,16 @@ I am a developer who loves to bridge the gap between software and hardware. My i
 - 🛡️ **Cybersecurity:** Focused on penetration testing, network security, and CTFs.
 - 🌐 **Web Development:** Creating clean and functional interfaces.
 
----
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enexis/enexis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enexis/enexis/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enexis/enexis/output/github-contribution-grid-snake.svg">
-</picture>
+  <div>
+    <picture>
+      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enexis1337/enexis1337/output/github-snake-dark.svg">
+      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enexis1337/enexis1337/output/github-snake.svg">
+      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/enexis1337/enexis1337/output/github-snake.svg" alt="GitHub Snake">
+    </picture>
+  </div>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enexis&label=Profile%20Views&color=00599c&style=flat" alt="enexis" />
