@@ -13,7 +13,7 @@
 ### 💻 About Me
 I'm a developer exploring the intersection of hardware, software, and security.
 
-* 🔧 **Embedded:** Arduino, ESP32, STM32.
+* 🔧 **Embedded:** Arduino, ESP32, STM32 & PCB Design.
 * 🛡️ **Security:** Pentesting & CTFs.
 * 🌐 **Web:** Clean & functional interfaces.
 
