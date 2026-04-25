@@ -19,8 +19,8 @@ I'm a developer exploring the intersection of hardware, software, and security.
 
 #### 🖥️ OSs
 <p align="left">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows 11-0078D6?style=flat-square&logo=microsoft-windows&logoColor=white" />
 </p>
 
 <p align="left">
